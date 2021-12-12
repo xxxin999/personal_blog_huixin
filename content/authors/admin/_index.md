@@ -2,8 +2,8 @@
 title: Huixin Deng (邓慧欣)
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include conumer behavior, goal and motivation, and
+  managing incentives. "
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +21,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. student in Marketing at the School of Management, Fudan University. My research topics cover consumer motive inference, incentive design in referral programs, and price promotion. I am also a podcast producer and harmonica lover.
