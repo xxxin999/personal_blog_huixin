@@ -1,7 +1,7 @@
 ---
 title: Huixin Deng (邓慧欣)
 role: Ph.D. Student
-avatar_filename: img_9267.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
