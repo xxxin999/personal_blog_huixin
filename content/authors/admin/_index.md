@@ -7,16 +7,14 @@ bio: "My research interests include conumer behavior, goal and motivation, and
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: denghuixin_stephy@outlook.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/HuixinDeng
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+    link: https://www.instagram.com/huixin_deng/
+organizations: []
 superuser: true
 status:
   icon: ☕️
