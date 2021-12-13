@@ -3,9 +3,9 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 20
-title: TEST_homepage_title
-subtitle: TEST_subtitle
-active: true
+title: ""
+subtitle: ""
+active: false
 content:
   page_type: post
   offset: 0
@@ -21,6 +21,8 @@ content:
 design:
   columns: "1"
   view: 3
-  background: {}
+  background:
+    text_color_light: false
+    image: featured.jpg
   spacing: {}
 ---
