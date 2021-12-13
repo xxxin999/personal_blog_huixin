@@ -11,7 +11,7 @@ categories:
 projects:
   - TEST_PROJECTS
 image:
-  filename: avatar.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
