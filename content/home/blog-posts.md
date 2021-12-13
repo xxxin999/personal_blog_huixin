@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: ""
 subtitle: ""
-active: false
+active: true
 content:
   page_type: post
   offset: 0
